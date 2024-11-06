@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\clsUtil\bin\Release\clsUtil.dll
+D:\Projects\ProjectLibrary\clsUtil\bin\Release\clsUtil.pdb
+D:\Projects\ProjectLibrary\clsUtil\obj\Release\Util.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\clsUtil\obj\Release\Util.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\clsUtil\obj\Release\clsUtil.dll
+D:\Projects\ProjectLibrary\clsUtil\obj\Release\clsUtil.pdb

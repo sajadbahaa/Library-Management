@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\LibData\bin\Release\LibData.dll
+D:\Projects\ProjectLibrary\LibData\bin\Release\LibData.pdb
+D:\Projects\ProjectLibrary\LibData\obj\Release\LibData.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\LibData\obj\Release\LibData.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\LibData\obj\Release\LibData.dll
+D:\Projects\ProjectLibrary\LibData\obj\Release\LibData.pdb

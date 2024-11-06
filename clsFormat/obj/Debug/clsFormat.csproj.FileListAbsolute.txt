@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\clsFormat\bin\Debug\clsFormat.dll
+D:\Projects\ProjectLibrary\clsFormat\bin\Debug\clsFormat.pdb
+D:\Projects\ProjectLibrary\clsFormat\obj\Debug\clsFormat.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\clsFormat\obj\Debug\clsFormat.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\clsFormat\obj\Debug\clsFormat.dll
+D:\Projects\ProjectLibrary\clsFormat\obj\Debug\clsFormat.pdb

@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\clsVaildation\bin\Release\clsVaildation.dll
+D:\Projects\ProjectLibrary\clsVaildation\bin\Release\clsVaildation.pdb
+D:\Projects\ProjectLibrary\clsVaildation\obj\Release\clsVaildation.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\clsVaildation\obj\Release\clsVaildation.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\clsVaildation\obj\Release\clsVaildation.dll
+D:\Projects\ProjectLibrary\clsVaildation\obj\Release\clsVaildation.pdb

@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\ReteieveData\bin\Debug\ReteieveData.dll
+D:\Projects\ProjectLibrary\ReteieveData\bin\Debug\ReteieveData.pdb
+D:\Projects\ProjectLibrary\ReteieveData\obj\Debug\ReteieveData.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\ReteieveData\obj\Debug\ReteieveData.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\ReteieveData\obj\Debug\ReteieveData.dll
+D:\Projects\ProjectLibrary\ReteieveData\obj\Debug\ReteieveData.pdb

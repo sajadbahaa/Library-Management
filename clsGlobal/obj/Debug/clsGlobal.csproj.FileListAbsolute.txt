@@ -1,0 +1,11 @@
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\clsGlobal.dll
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\clsGlobal.pdb
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\LibBussiness.dll
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\LibData.dll
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\LibBussiness.pdb
+D:\Projects\ProjectLibrary\clsGlobal\bin\Debug\LibData.pdb
+D:\Projects\ProjectLibrary\clsGlobal\obj\Debug\clsGlobal.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\clsGlobal\obj\Debug\clsGlobal.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\clsGlobal\obj\Debug\clsGlobal.csproj.Up2Date
+D:\Projects\ProjectLibrary\clsGlobal\obj\Debug\clsGlobal.dll
+D:\Projects\ProjectLibrary\clsGlobal\obj\Debug\clsGlobal.pdb

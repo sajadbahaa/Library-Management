@@ -1,0 +1,9 @@
+D:\Projects\ProjectLibrary\LibBussiness\bin\Release\LibBussiness.dll
+D:\Projects\ProjectLibrary\LibBussiness\bin\Release\LibBussiness.pdb
+D:\Projects\ProjectLibrary\LibBussiness\bin\Release\LibData.dll
+D:\Projects\ProjectLibrary\LibBussiness\bin\Release\LibData.pdb
+D:\Projects\ProjectLibrary\LibBussiness\obj\Release\LibBussiness.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\LibBussiness\obj\Release\LibBussiness.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\LibBussiness\obj\Release\LibBussi.C901639B.Up2Date
+D:\Projects\ProjectLibrary\LibBussiness\obj\Release\LibBussiness.dll
+D:\Projects\ProjectLibrary\LibBussiness\obj\Release\LibBussiness.pdb

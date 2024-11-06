@@ -1,0 +1,6 @@
+D:\Projects\ProjectLibrary\LibData\bin\Debug\LibData.dll
+D:\Projects\ProjectLibrary\LibData\bin\Debug\LibData.pdb
+D:\Projects\ProjectLibrary\LibData\obj\Debug\LibData.csproj.AssemblyReference.cache
+D:\Projects\ProjectLibrary\LibData\obj\Debug\LibData.csproj.CoreCompileInputs.cache
+D:\Projects\ProjectLibrary\LibData\obj\Debug\LibData.dll
+D:\Projects\ProjectLibrary\LibData\obj\Debug\LibData.pdb
